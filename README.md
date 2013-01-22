@@ -8,7 +8,7 @@ A simulation of playing Tower of Hanoi, developed targeting for iPhones and iPod
 Make sure you are using a Mac!
 </li>
 <li>
-Pull this project to your local machine, and click on the xcodeproj file.
+Pull this project to your local machine, and click open the xcodeproj file.
 </li>
 <li>
 Hit Command-R and you are ready to go! Make sure you have gone over the How-to in the game!
