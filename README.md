@@ -1,6 +1,6 @@
 <h1>Tower of Hanoi</h1>
 
-A simulation of playing Tower of Hanoi, developed targeting for iPhones and iPod Touches.
+A game simulation of the famous Tower of Hanoi puzzle, developed for iPhones and iPod Touches.
 
 <h2>Usage</h2>
 <ul>
